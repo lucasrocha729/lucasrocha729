@@ -4,10 +4,15 @@
     <a href="https://www.linkedin.com/in/lucas-rocha729/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-    <h2> Sobre mim</h2>
-    //Em criação
-</div>
+### Sobre mim:
+
+* **Nome:** Lucas Rocha;
+
+* **Idade:** 20;
+
+* **Residindo em:** Curitiba/PR - Brasil;
+
+* **Formação:** Estudante de Sistemas de Informação - atualmente 4º período.
 
 ##
 
