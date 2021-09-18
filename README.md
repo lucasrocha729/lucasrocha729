@@ -1,8 +1,19 @@
 <div> 
   <h1 style="margin-bottom: 15px; margin-top: 15px;"> Olá! Bem vindo ao meu git.</h1>
+  
   <a href = "mailto:lucasrocha.0822@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 20px; margin-bottom: 15px"></a>
   <a  href="https://www.linkedin.com/in/lucas-rocha729/" target="_blank" style="border-radius: 20px; margin-bottom: 15px"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+### 
+
+Sobre mim:
+* Nome: Lucas Rocha;
+* Idade: 21;  
+* Residindo em: Curitiba/PR - Brasil;
+* Formação: Estudante de Sistemas de Informação - atualmente 5º período.  
+
+##
 
 <div>
   <a href="https://github.com/lucasrocha729">
