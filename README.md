@@ -5,9 +5,9 @@
   <a  href="https://www.linkedin.com/in/lucas-rocha729/" target="_blank" style="border-radius: 20px; margin-bottom: 15px"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### 
+## 
 
-Sobre mim:
+### Sobre mim:
 * Nome: Lucas Rocha;
 * Idade: 21;  
 * Residindo em: Curitiba/PR - Brasil;
