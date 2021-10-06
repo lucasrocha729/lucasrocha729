@@ -9,7 +9,7 @@
 
 ### Sobre mim:
 * Nome: Lucas Rocha;
-* Idade: 21;  
+* Idade: 21;   
 * Residindo em: Curitiba/PR - Brasil;
 * Formação: Estudante de Sistemas de Informação - atualmente 5º período.  
  
