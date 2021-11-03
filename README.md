@@ -28,7 +28,7 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-NodeJs" height="30" width="40" src="./assets/nodejs.png">
 </div>
-  
+   
   ##
  
 <div>
