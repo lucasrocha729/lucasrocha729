@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BE2DCF&width=435&lines=Hi+there!+My+name+is+Lucas+Rocha+;I'm+23+years+old;I'm+from+Brazil;Graduated+in+Information+Systems;Be+welcome!+%3Acomputer%3A)](https://git.io/typing-svg)
  
-## Conect with me
+## Conect with me 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=BE2DCF)](mailto:lucasrocha.0822@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=BE2DCF)](https://www.linkedin.com/in/lucas-rocha729/)
 
